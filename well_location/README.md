@@ -12,4 +12,8 @@
 ## Используемые библиотеки
 pandas
 
-matplotlib
+sklearn 
+
+numpy
+
+scipy
